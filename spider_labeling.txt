@@ -1,0 +1,11 @@
+Habitat	Original spider label	New spider label
+Desert	D.MGU.15	MGU
+Desert	D.NRR.9	NRR
+Desert	D.TME.17.W	TME
+Desert	D.TMEC.3.W	TME-C
+Lab	L.MR02.C15	Lab-1
+Lab	L.MR03.C4.W	Lab-2
+Urban	U.GLC.22	GLC
+Urban	U.MR.33	MR
+Urban	U.OLI.27	OLI
+Urban	U.SBF.37.W	SBF
